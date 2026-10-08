@@ -1,0 +1,7 @@
+import { createRoot } from "react-dom/client";
+import App from "./App.jsx";
+import Admin from "./components/Admin.jsx";
+import "./styles.css";
+
+const isAdmin = window.location.pathname.replace(/\/+$/, "") === "/admin";
+createRoot(document.getElementById("root")).render(isAdmin ? <Admin /> : <App />);
