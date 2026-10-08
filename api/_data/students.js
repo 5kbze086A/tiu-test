@@ -83,4 +83,5 @@ export default [
   { id: "456221100694", pass: "AC1535971", name: "AKBAROV RAXMATULLOH BAXODIR O‘G‘LI" },
   { id: "456221101511", pass: "AB9429650", name: "IBRAGIMOV BAXRIDDIN AKRAMJON O‘G‘LI" },
   { id: "456221102144", pass: "AB4550579", name: "ABDUG‘ANIYEV SHUKRILLO SHOKIRJON O‘G‘LI" },
+   { id: "456221100107", pass: "AB0353645", name: "Xudoyberganov Sanjarbek Raxmatilla o'g'li" },
 ];
